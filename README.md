@@ -12,3 +12,10 @@ Primeiro projeto do curso, possui o objetivo de criar, de maneira rápida e por 
 
 Segundo projeto do curso, possui o objetivo de prover, por meio de um script, um servidor da Web.
   
+## Docker/
+
+Último projeto, tilizando Docker, implementação de uma estrutura de Microsserviços.
+
+
+
+**Iniciação dos conhecimentos com Banco de Dados, o foco do meu aprendizado é o Linux, voltarei a modificar algo quando tiver mais conhecimentos sobre Banco de Dados caso ache necessário.**
